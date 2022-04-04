@@ -16,17 +16,21 @@
  
  ```javascript
 const aboutMe = {
+ 
   city: Madrid,
   code: ["JavascriptES6", "HTML5", "CSS3"],
   tools: ["React", "Node.js", "ExpressJS", "Handlebars", "Bootstrap", "MUI"],
   backEnd: ["RESTful API", "Axios", "Postman"],
   dataBase: ["MongoDB", "Mongoose", "noSQL"],
   otherPackages: ["Stripe", "Socket.io", "FullCalendar", "Nodemailer", "Cloudinary", "GoogleMaps Platform"]
+ versionControl: ["gitHub", "Netlify", "Heroku"]
+ 
   webDevEducation: {
                         teachInstitution: "IronHack",
                         course: "Full Stack Web Developer",
                         format: "Full Time"
                       },
+ 
  preference: "Front-end"
 }
 ```
