@@ -28,7 +28,7 @@ const aboutMe = {
   webDevEducation: {
                         teachInstitution: "IronHack",
                         course: "Full Stack Web Developer",
-                        format: "Full Time"
+                        format: "Full Time",
                         location: "remote"
                       },
  
