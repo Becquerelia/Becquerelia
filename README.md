@@ -4,6 +4,7 @@
 </br>You can check my portfolio <a href="https://portfolio-eva.netlify.app/">here!📜</a>
 </br> And you can contact with me <a href="mailto:evarteca@gmail.com"><b>here✉️<b></a> 
 </p>
-  
+ <div align="center"> 
 [![Linkedin: evagonzalezcagigas](https://img.shields.io/badge/-evagonzalezcagigas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evagonzalezcagigas/)](https://www.linkedin.com/in/evagonzalezcagigas/)
 [![GitHub Becquerelia](https://img.shields.io/github/followers/Becquerelia?label=follow&style=social)](https://github.com/Becquerelia)
+  </div>
