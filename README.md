@@ -23,7 +23,7 @@ const aboutMe = {
   backEnd: ["RESTful API", "Axios", "Postman"],
   dataBase: ["MongoDB", "Mongoose", "noSQL"],
   otherPackages: ["Stripe", "Socket.io", "FullCalendar", "Nodemailer", "Cloudinary", "GoogleMaps Platform"]
- versionControl: ["gitHub", "Netlify", "Heroku"]
+  versionControl: ["gitHub", "Netlify", "Heroku"]
  
   webDevEducation: {
                         teachInstitution: "IronHack",
