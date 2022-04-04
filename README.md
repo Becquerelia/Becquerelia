@@ -17,7 +17,7 @@
  ```javascript
 const aboutMe = {
  
-  city: Madrid,
+  city: "Madrid",
   code: ["JavascriptES6", "HTML5", "CSS3"],
   technologies: ["React", "Node.js", "ExpressJS", "Handlebars", "Bootstrap", "MUI"],
   backEndTools: ["RESTful API", "Axios", "Postman"],
