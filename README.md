@@ -22,8 +22,8 @@ const aboutMe = {
   technologies: ["React", "Node.js", "ExpressJS", "Handlebars", "Bootstrap", "MUI"],
   backEndTools: ["RESTful API", "Axios", "Postman"],
   dataBase: ["MongoDB", "Mongoose", "noSQL"],
-  otherPackages: ["Stripe", "Socket.io", "FullCalendar", "Nodemailer", "Cloudinary", "GoogleMaps Platform"]
-  versionControl: ["gitHub", "Netlify", "Heroku"]
+  otherPackages: ["Stripe", "Socket.io", "FullCalendar", "Nodemailer", "Cloudinary", "GoogleMaps Platform"],
+  versionControl: ["gitHub", "Netlify", "Heroku"],
  
   webDevEducation: {
                         teachInstitution: "IronHack",
