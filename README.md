@@ -4,5 +4,5 @@
 </br>You can check my portfolio <a href="https://portfolio-eva.netlify.app/">here!</a><img src="https://media.giphy.com/media/LOtwcbjWL6Pwr2qO8t/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: evagonzalezcagigas](https://img.shields.io/badge/-Eva GC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evagonzalezcagigas/)](https://www.linkedin.com/in/evagonzalezcagigas/)
+[![Linkedin: evagonzalezcagigas](https://img.shields.io/badge/-evagonzalezcagigas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evagonzalezcagigas/)](https://www.linkedin.com/in/evagonzalezcagigas/)
 [![GitHub Becquerelia](https://img.shields.io/github/followers/Becquerelia?label=follow&style=social)](https://github.com/Becquerelia)
