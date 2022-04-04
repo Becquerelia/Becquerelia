@@ -13,3 +13,5 @@
   </div>
  
  <p align="center" ><img align="center" src="https://www.codewars.com/users/Becquerelia/badges/large" alt="codewars" /></p>
+ 
+ ![snake gif](https://github.com/Becquerelia/Becquerelia/blob/output/github-contribution-grid-snake.svg)
