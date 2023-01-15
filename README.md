@@ -22,7 +22,6 @@ const aboutMe = {
   technologies: ["React", "NextJS", "Node.js", "ExpressJS", "Handlebars", "Bootstrap", "Material UI"],
   backEndTools: ["RESTful API", "Axios", "Postman"],
   dataBase: ["MongoDB", "Mongoose", "noSQL"],
-  otherPackages: ["Stripe", "Socket.io", "FullCalendar", "Nodemailer", "Cloudinary", "GoogleMaps Platform"],
   versionControl: ["gitHub", "Netlify", "Heroku"],
  
   webDevEducation: {
