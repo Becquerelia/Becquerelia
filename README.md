@@ -19,7 +19,7 @@ const aboutMe = {
  
   city: "Madrid",
   code: ["TypeScript", "JavascriptES6", "HTML5", "CSS3"],
-  technologies: ["React", "NextJS", "Node.js", "ExpressJS", "Handlebars", "Bootstrap", "Material UI"],
+  technologies: ["React", "NextJS", "NodeJS", "ExpressJS", "Handlebars", "Bootstrap", "Material UI"],
   backEndTools: ["RESTful API", "Axios", "Postman"],
   dataBase: ["MongoDB", "Mongoose", "noSQL"],
   versionControl: ["gitHub", "Netlify", "Heroku"],
