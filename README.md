@@ -20,10 +20,12 @@ const aboutMe = {
   city: "Madrid",
   country: "Spain",
   code: ["TypeScript", "JavascriptES6", "HTML5", "CSS3"],
-  technologies: ["React", "NextJS", "NodeJS", "ExpressJS", "Bootstrap", "Material UI"],
-  backEndTools: ["RESTful API", "Axios", "Postman"],
+  jsLibrary: "React",
+  cssFrameworks: ["Bootstrap", "Material UI"],
+  backEndTools: ["NodeJS", "ExpressJS", "RESTful API", "Axios", "Postman"],
   dataBase: ["MongoDB", "noSQL"],
-  versionControl: ["gitHub", "Netlify", "Heroku"],
+  versionControl: ["git", "gitHub"],
+  devOps: "GitHub Actions",
  
   webDevEducation: {
                         teachInstitution: "IronHack",
