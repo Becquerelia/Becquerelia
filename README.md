@@ -22,7 +22,7 @@ const aboutMe = {
   code: ["TypeScript", "JavascriptES6", "HTML5", "CSS3"],
   jsLibrary: "React",
   cssFrameworks: ["Bootstrap", "Material UI"],
-  backEndTools: ["NodeJS", "ExpressJS", "RESTful API", "Axios", "Postman"],
+  backEnd: ["NodeJS", "ExpressJS", "RESTful API", "Axios", "Postman"],
   dataBase: ["MongoDB", "noSQL"],
   versionControl: ["git", "gitHub"],
   devOps: "GitHub Actions",
