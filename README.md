@@ -32,9 +32,7 @@ const aboutMe = {
                         course: "Full Stack Web Developer",
                         format: "full time",
                         location: "remote"
-                      },
- 
- preference: "Front-end"
+                      }
 }
 ```
  
