@@ -2,7 +2,7 @@
 
 <p align="center">I'm IronHacker of <a href="https://www.ironhack.com/en/web-development?utm_medium=cpc&utm_source=google&utm_campaign=MAD_Spain_Madrid_Global_Search_Generic_EN&utm_term=full%20stack%20bootcamp&utm_content=search-unbranded">FullStack Web Development - Full Time program </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </br>You can check my portfolio <a href="https://portfolio-eva.netlify.app/">here!📜</a>
-</br> And you can contact with me <a href="mailto:evarteca@gmail.com"><b>here✉️<b></a> 
+</br> And you can contact with me <a href="mailto:evarteca@gmail.com"><b>here ✉️<b></a> 
 </p>
  
  <div align="center"> 
