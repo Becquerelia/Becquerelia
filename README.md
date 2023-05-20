@@ -24,7 +24,6 @@ const aboutMe = {
   cssFrameworks: ["Bootstrap", "Material UI"],
   backEnd: ["NodeJS", "ExpressJS", "RESTful API", "Postman"],
   dataBase: ["MongoDB", "noSQL"],
-  versionControl: ["git", "gitHub"],
   devOps: "GitHub Actions",
  
   webDevEducation: {
