@@ -21,7 +21,6 @@ const aboutMe = {
   country: "Spain",
   code: ["TypeScript", "JavascriptES6", "HTML5", "CSS3"],
   jsLibrary: "React",
-  cssFrameworks: ["Bootstrap", "Material UI"],
   backEnd: ["NodeJS", "ExpressJS", "RESTful API", "Postman"],
   dataBase: ["MongoDB", "noSQL"],
   devOps: "GitHub Actions",
