@@ -23,8 +23,7 @@ const aboutMe = {
   jsLibrary: "React",
   backEnd: ["NodeJS", "ExpressJS", "RESTful API"],
   dataBase: ["MongoDB", "noSQL"],
-  devOps: "GitHub Actions",
- 
+  devOps: "GitHub Actions", 
   webDevEducation: {
                         teachInstitution: "IronHack",
                         course: "Full Stack Web Developer",
