@@ -17,7 +17,6 @@
  ```javascript
 const aboutMe = {
  
-  city: "Madrid",
   country: "Spain",
   code: ["TypeScript", "JavascriptES6", "HTML5", "CSS3"],
   jsLibrary: "React",
