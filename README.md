@@ -18,7 +18,7 @@
 const aboutMe = {
  
   country: "Spain",
-  code: ["TypeScript", "JavascriptES6", "HTML5", "CSS3"],
+  code: ["TypeScript", "Javascript ES6", "HTML5", "CSS3"],
   jsLibrary: "React",
   backEnd: ["NodeJS", "ExpressJS", "RESTful API"],
   dataBase: ["MongoDB", "noSQL"],
